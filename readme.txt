@@ -1,3 +1,4 @@
+Creating a new branch is quick.
 aaaa
 bbbb
 Git is a distributed version control system.
